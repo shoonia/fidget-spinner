@@ -1,0 +1,25 @@
+body {
+  background: #F0F0F0;
+}
+
+@keyframes spinner {
+  100% {
+    transform: rotate(3600deg);
+  }
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.spinner {
+  width: 200px;
+  height: 200px;
+  transform-origin: 100px 118px;
+  animation: spinner 3s infinite alternate ease-in-out;
+}
