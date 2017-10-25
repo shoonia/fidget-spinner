@@ -1,2 +1,2 @@
 ### Fidget Spinner
-See how it works: [CodePen](https://codepen.io/shoonia/full/pwGQEJ)
+See how it works: [shoonia.github.io/fidget-spinner](https://shoonia.github.io/fidget-spinner/)
